@@ -107,7 +107,7 @@ An curated list for feed-forward 3D scene modeling, including research direction
 - Uni3R: Unified 3D Reconstruction and Semantic Understanding via Generalizable Gaussian Splatting from Unposed Multi-view Images. [[:page_facing_up: Paper](https://arxiv.org/abs/2508.03643)]
 - Flow3r: Factored Flow Prediction for Scalable Visual Geometry Learning. [[:page_facing_up: Paper](https://arxiv.org/abs/2602.20157)]
 - Gen3R: 3D Scene Generation Meets Feed-Forward Reconstruction. [[:page_facing_up: Paper](https://arxiv.org/abs/2601.04090)]
-- NOVA3R: Non-pixel-aligned Visual Transformer for Amodal 3D Reconstruction.
+- NOVA3R: Non-pixel-aligned Visual Transformer for Amodal 3D Reconstruction. [[:page_facing_up: Paper](https://arxiv.org/abs/2603.04179) | [:computer: Code](https://github.com/wrchen530/nova3r)｜[:globe_with_meridians: Project Page](https://wrchen530.github.io/nova3r/)]
 - IncVGGT: Incremental VGGT for Memory-Bounded Long-Range 3D Reconstruction.
 - ZipMap: Linear-Time Stateful 3D Reconstruction with Test-Time Training. [[:page_facing_up: Paper](https://arxiv.org/abs/2603.04385)]
 - LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory. [[:page_facing_up: Paper](https://arxiv.org/abs/2603.03269)]
@@ -378,10 +378,10 @@ An curated list for feed-forward 3D scene modeling, including research direction
 - MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors. [[:page_facing_up: Paper](https://arxiv.org/abs/2412.12392) | [:computer: Code](https://github.com/rmurai0610/MASt3R-SLAM)｜[:globe_with_meridians: Project Page](https://edexheim.github.io/mast3r-slam/)]
 - SLAM3R. [[:page_facing_up: Paper](https://arxiv.org/abs/2412.09401) | [:computer: Code](https://github.com/PKU-VCL-3DV/SLAM3R)]
 - VGGT-SLAM. [[:page_facing_up: Paper](https://arxiv.org/abs/2505.12549) | [:computer: Code](https://github.com/MIT-SPARK/VGGT-SLAM)]
-- ARTDECO: Towards Efficient and High-Fidelity On-the-Fly 3D Reconstruction with Structured Scene Representation. [[:page_facing_up: Paper](https://arxiv.org/abs/2410.06082)]
-- EC3R-SLAM: Efficient and Consistent Monocular Dense SLAM with Feed-Forward 3D Reconstruction. [[:page_facing_up: Paper](https://arxiv.org/abs/2510.11873)]
-- MASt3R-Fusion: Integrating Feed-Forward Visual Model with IMU, GNSS for High-Functionality SLAM. [[:page_facing_up: Paper](https://arxiv.org/abs/2510.11889)]
-- ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association. [[:page_facing_up: Paper](https://arxiv.org/abs/2510.11869)]
+- ARTDECO: Towards Efficient and High-Fidelity On-the-Fly 3D Reconstruction with Structured Scene Representation. [[:page_facing_up: Paper](https://arxiv.org/abs/2510.08551)]
+- EC3R-SLAM: Efficient and Consistent Monocular Dense SLAM with Feed-Forward 3D Reconstruction. [[:page_facing_up: Paper](https://arxiv.org/abs/2510.02080)]
+- MASt3R-Fusion: Integrating Feed-Forward Visual Model with IMU, GNSS for High-Functionality SLAM. [[:page_facing_up: Paper](https://arxiv.org/abs/2509.20757)]
+- ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association. [[:page_facing_up: Paper](https://arxiv.org/abs/2509.01584) | [:computer: Code](https://github.com/zhangganlin/vista-slam)｜[:globe_with_meridians: Project Page](https://ganlinzhang.xyz/vista-slam/)]
 
 ## Scene Understanding
 
