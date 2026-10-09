@@ -289,7 +289,7 @@ An curated list for feed-forward 3D scene modeling, including research direction
 
 ### Online Streaming
 
-- StreamSplat: Towards Online Dynamic 3D Reconstruction from Uncalibrated Video Streams. [[:page_facing_up: Paper](https://arxiv.org/abs/2506.08862) | [:computer: Code](https://github.com/DSL-Lab/StreamSpat)]
+- StreamSplat: Towards Online Dynamic 3D Reconstruction from Uncalibrated Video Streams. [[:page_facing_up: Paper](https://arxiv.org/abs/2506.08862) | [:computer: Code](https://github.com/DSL-Lab/StreamSplat)]
 - Continuous 3D Perception Model with Persistent State. [[:page_facing_up: Paper](https://arxiv.org/abs/2501.12387) | [:computer: Code](https://github.com/CUT3R/CUT3R)｜[:globe_with_meridians: Project Page](https://cut3r.github.io/)]
 - DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos. [[:page_facing_up: Paper](https://arxiv.org/abs/2506.09997) ｜[:globe_with_meridians: Project Page](https://hubert0527.github.io/dgslrm/)]
 - Stream3R: Scalable Sequential 3D Reconstruction with Causal Transformer. [[:page_facing_up: Paper](https://arxiv.org/abs/2508.10893)]
