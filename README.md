@@ -80,6 +80,13 @@ An curated list for feed-forward 3D scene modeling, including research direction
 - Gamba: Marry Gaussian Splatting With Mamba for Single-View 3D Reconstruction.
 - MVGamba: Unify 3D Content Generation as State Space Sequence Modeling.
 - Long-LRM: Long-sequence Large Reconstruction Model for Wide-coverage Gaussian Splats. [[:page_facing_up: Paper](https://arxiv.org/abs/2410.12781) | [:computer: Code](https://github.com/arthurhero/Long-LRM)｜[:globe_with_meridians: Project Page](https://arthurhero.github.io/projects/llrm/)]
+- 2Xplat: Decoupling Geometry and Appearance Modeling for Feed-Forward 3D Gaussian Splatting. [[:page_facing_up: Paper](https://arxiv.org/abs/2603.21064)]
+- UniQueR: Unified Query-based Feedforward 3D Reconstruction. [[:page_facing_up: Paper](https://arxiv.org/abs/2603.22851)]
+- InfiniSplat: Implicit Gaussian Decoding for Large-Baseline Monocular View Synthesis. [[:page_facing_up: Paper](https://arxiv.org/abs/2608.02437)]
+- LangFlash: Feed-forward 3D Language Gaussian Splatting from Sparse Unposed Images. [[:page_facing_up: Paper](https://arxiv.org/abs/2605.23287)]
+- TokenGS: Decoupling 3D Gaussian Prediction from Pixels with Learnable Tokens. [[:page_facing_up: Paper](https://arxiv.org/abs/2604.15239) | [:globe_with_meridians: Project Page](https://research.nvidia.com/labs/toronto-ai/tokengs)]
+- UniqueSplat: View-conditioned 3D Gaussian Splatting for Generalizable 3D Reconstruction. [[:page_facing_up: Paper](https://arxiv.org/abs/2608.02145)]
+- ViewSplat: View-Adaptive 3D Gaussian Splatting for Feed-Forward Synthesis. [[:page_facing_up: Paper](https://arxiv.org/abs/2603.25265)]
 
 ### Cross-View Fusion
 
@@ -113,6 +120,10 @@ An curated list for feed-forward 3D scene modeling, including research direction
 - LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory. [[:page_facing_up: Paper](https://arxiv.org/abs/2603.03269)]
 - tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction. [[:page_facing_up: Paper](https://arxiv.org/abs/2602.20160)]
 - VGG-T3: Offline Feed-Forward 3D Reconstruction at Scale. [[:page_facing_up: Paper](https://arxiv.org/abs/2602.23361)]
+- Cameras as Relative Positional Encoding. [[:page_facing_up: Paper](https://arxiv.org/abs/2507.10496)]
+- FF3R: Feedforward Feature 3D Reconstruction from Unconstrained views. [[:page_facing_up: Paper](https://arxiv.org/abs/2604.09862)]
+- TokenSplat: Token-aligned 3D Gaussian Splatting for Feed-forward Pose-free Reconstruction. [[:page_facing_up: Paper](https://arxiv.org/abs/2603.00697)]
+- DAGE: Dual-Stream Architecture for Efficient and Fine-Grained Geometry Estimation. [[:page_facing_up: Paper](https://arxiv.org/abs/2603.03744) | [:globe_with_meridians: Project Page](https://ngoductuanlhp.github.io/dage-site/)]
 
 ### Integration of Visual Foundation Models
 
@@ -120,6 +131,9 @@ An curated list for feed-forward 3D scene modeling, including research direction
 - Mono3R: Exploiting Monocular Cues for Geometric 3D Reconstruction. [[:page_facing_up: Paper](https://arxiv.org/abs/2504.13419)]
 - Feat2GS: Probing Visual Foundation Models with Gaussian Splatting. [[:page_facing_up: Paper](https://arxiv.org/abs/2412.09606) | [:computer: Code](https://github.com/fanegg/Feat2GS)｜[:globe_with_meridians: Project Page](https://fanegg.github.io/Feat2GS/)]
 - CATSplat: Context-Aware Transformer with Spatial Guidance for Generalizable 3D Gaussian Splatting from A Single-View Image. [[:page_facing_up: Paper](https://arxiv.org/abs/2412.12906)]
+- VGGT-Omega. [[:page_facing_up: Paper](https://arxiv.org/abs/2605.15195)]
+- Fisheye3R: Adapting Unified 3D Feed-Forward Foundation Models to Fisheye Lenses. [[:page_facing_up: Paper](https://arxiv.org/abs/2603.28896)]
+- G^2VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning. [[:page_facing_up: Paper](https://arxiv.org/abs/2511.21688)]
 
 ## Geometry-aware Improvement
 
@@ -149,6 +163,14 @@ An curated list for feed-forward 3D scene modeling, including research direction
 - pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction. [[:page_facing_up: Paper](https://arxiv.org/abs/2312.12337) | [:computer: Code](https://github.com/dcharatan/pixelsplat)｜[:globe_with_meridians: Project Page](https://dcharatan.github.io/pixelsplat)]
 - MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images. [[:page_facing_up: Paper](https://arxiv.org/abs/2403.14627) | [:computer: Code](https://github.com/donydchen/mvsplat)｜[:globe_with_meridians: Project Page](https://donydchen.github.io/mvsplat)]
 - MVSGaussian: Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo. [[:page_facing_up: Paper](https://arxiv.org/abs/2501.15364) | [:computer: Code](https://github.com/TQTQliu/MVSGaussian)｜[:globe_with_meridians: Project Page](https://mvsgaussian.github.io/)]
+- AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend. [[:page_facing_up: Paper](https://arxiv.org/abs/2511.20343)]
+- GGPT: Geometry Grounded Point Transformer. [[:page_facing_up: Paper](https://arxiv.org/abs/2603.11174)]
+- AirSplat: Alignment and Rating for Robust Feed-Forward 3D Gaussian Splatting. [[:page_facing_up: Paper](https://arxiv.org/abs/2603.25129)]
+- AnchorSplat: Feed-Forward 3D Gaussian Splatting with 3D Geometric Priors. [[:page_facing_up: Paper](https://arxiv.org/abs/2604.07053)]
+- Generalizing Visual Geometry Priors to Sparse Gaussian Occupancy Prediction. [[:page_facing_up: Paper](https://arxiv.org/abs/2602.21552)]
+- MAC-Splat: Multi-Attribute Consistency for High-Fidelity Sparse-View Reconstruction. [[:page_facing_up: Paper](https://arxiv.org/abs/2607.10792)]
+- Splat-SAP: Feed-Forward Gaussian Splatting for Human-Centered Scene with Scale-Aware Point Map Reconstruction. [[:page_facing_up: Paper](https://arxiv.org/abs/2511.22704) | [:globe_with_meridians: Project Page](https://yaourtb.github.io/Splat-SAP)]
+- VGD: Visual Geometry Gaussian Splatting for Feed-Forward Surround-view Driving Reconstruction. [[:page_facing_up: Paper](https://arxiv.org/abs/2510.19578)]
 
 ### Refining Predicted 3D Scenes
 
@@ -158,6 +180,8 @@ An curated list for feed-forward 3D scene modeling, including research direction
 - Gaussian Graph Network: Learning Efficient and Generalizable Gaussian Representations from Multi-view Images. [[:page_facing_up: Paper](https://arxiv.org/abs/2503.16338) | [:computer: Code](https://github.com/shengjun-zhang/GGN)｜[:globe_with_meridians: Project Page](https://shengjun-zhang.github.io/GGN/)]
 - Generative Densification: Learning to Densify Gaussians for High-Fidelity Generalizable 3D Reconstruction.
 - G3R: Gradient Guided Generalizable Reconstruction.
+- Emergent Outlier View Rejection in Visual Geometry Grounded Transformers. [[:page_facing_up: Paper](https://arxiv.org/abs/2512.04012)]
+- Trust It or Not: Evidential Uncertainty for Feed-Forward 3D Reconstruction with Trust3R. [[:page_facing_up: Paper](https://arxiv.org/abs/2605.19539)]
 
 ### Pose-Free Reconstruction
 
@@ -176,6 +200,10 @@ An curated list for feed-forward 3D scene modeling, including research direction
 - SPFSplatV2: Efficient Self-Supervised Pose-Free 3D Gaussian Splatting from Sparse Views. [[:page_facing_up: Paper](https://arxiv.org/abs/2509.17246)]
 - PLANA3R: Zero-shot Metric Planar 3D Reconstruction via Feed-forward Planar Splatting.
 - YoNoSplat: You Only Need One Model for Feedforward 3D Gaussian Splatting. [[:page_facing_up: Paper](https://arxiv.org/abs/2511.07321)]
+- CAM3R: Camera-Agnostic Model for 3D Reconstruction. [[:page_facing_up: Paper](https://arxiv.org/abs/2603.22631)]
+- Wid3R: Wide Field-of-View 3D Reconstruction via Camera Model Conditioning. [[:page_facing_up: Paper](https://arxiv.org/abs/2602.05321)]
+- FlexSplat: Flexible Feed-Forward 3D Gaussian Splatting without Point Cloud Correspondence. [[:page_facing_up: Paper](https://arxiv.org/abs/2608.07937)]
+- WildSplat: Feedforward Gaussian Splatting from Unposed In-the-Wild Images. [[:page_facing_up: Paper](https://arxiv.org/abs/2607.05347) | [:globe_with_meridians: Project Page](https://zju3dv.github.io/wildsplat/)]
 
 ### Pre-trained Geometric Guidance
 
@@ -185,6 +213,9 @@ An curated list for feed-forward 3D scene modeling, including research direction
 - Revisiting Depth Representations for Feed-Forward 3D Gaussian Splatting. [[:page_facing_up: Paper](https://arxiv.org/abs/2506.05327) | [:computer: Code](https://github.com/aim-uofa/PM-Loss)｜[:globe_with_meridians: Project Page](https://aim-uofa.github.io/PMLoss/)]
 - Fin3R: Fine-tuning Feed-forward 3D Reconstruction Models via Monocular Knowledge Distillation. [[:page_facing_up: Paper](https://arxiv.org/abs/2511.22429)]
 - JointSplat: Joint Depth and Flow Priors for Feed-Forward 3D Gaussian Splatting. [[:page_facing_up: Paper](https://arxiv.org/abs/2506.03872)]
+- OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer. [[:page_facing_up: Paper](https://arxiv.org/abs/2511.10560)]
+- On Geometric Understanding and Learned Priors in Feed-forward 3D Reconstruction Models. [[:page_facing_up: Paper](https://arxiv.org/abs/2512.11508)]
+- WorldMirror: Universal 3D World Reconstruction with Any-Prior Prompting. [[:page_facing_up: Paper](https://arxiv.org/abs/2510.10726)]
 
 ## Model Efficiency
 
@@ -201,6 +232,19 @@ An curated list for feed-forward 3D scene modeling, including research direction
 - LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging. [[:page_facing_up: Paper](https://arxiv.org/abs/2512.04939)]
 - Speed3R: Sparse Feed-forward 3D Reconstruction Models. [[:page_facing_up: Paper](https://arxiv.org/abs/2603.08055)]
 - SR3R: Rethinking Super-Resolution 3D Reconstruction With Feed-Forward Gaussian Splatting. [[:page_facing_up: Paper](https://arxiv.org/abs/2602.24020)]
+- Déjà View: Looping Transformers for Multi-View 3D Reconstruction. [[:page_facing_up: Paper](https://arxiv.org/abs/2605.30215)]
+- Diversity-aware View Partitioning for Scalable VGGT. [[:page_facing_up: Paper](https://arxiv.org/abs/2607.01885)]
+- FlashVGGT: Efficient and Scalable Visual Geometry Transformers with Compressed Descriptor Attention. [[:page_facing_up: Paper](https://arxiv.org/abs/2512.01540)]
+- QVGGT: Post-Training Quantized Visual Geometry Grounded Transformer. [[:page_facing_up: Paper](https://arxiv.org/abs/2605.31124)]
+- SAF3R: Dynamic Sparse Attention for Feed-Forward 3D Reconstruction Transformers. [[:page_facing_up: Paper](https://arxiv.org/abs/2607.03612)]
+- AVGGT: Rethinking Global Attention for Accelerating VGGT. [[:page_facing_up: Paper](https://arxiv.org/abs/2512.02541)]
+- HeSS: Head Sensitivity Score for Sparsity Redistribution in VGGT. [[:page_facing_up: Paper](https://arxiv.org/abs/2603.25336)]
+- HTTM: Head-wise Temporal Token Merging for Faster VGGT. [[:page_facing_up: Paper](https://arxiv.org/abs/2511.21317)]
+- InfiniteVGGT: Visual Geometry Grounded Transformer for Endless Streams. [[:page_facing_up: Paper](https://arxiv.org/abs/2601.02281)]
+- Long-LRM++: Preserving Fine Details in Feed-Forward Wide-Coverage Reconstruction. [[:page_facing_up: Paper](https://arxiv.org/abs/2512.10267)]
+- MuSASplat: Efficient Sparse-View 3D Gaussian Splats via Lightweight Multi-Scale Adaptation. [[:page_facing_up: Paper](https://arxiv.org/abs/2512.07165)]
+- STAC: Plug-and-Play Spatio-Temporal Aware Cache Compression for Streaming 3D Reconstruction. [[:page_facing_up: Paper](https://arxiv.org/abs/2603.20284)]
+- Z-Order Transformer for Feed-Forward Gaussian Splatting. [[:page_facing_up: Paper](https://arxiv.org/abs/2605.13465)]
 
 ### Representation Compaction
 
@@ -208,6 +252,10 @@ An curated list for feed-forward 3D scene modeling, including research direction
 - PixelGaussian: Generalizable 3D Gaussian Reconstruction from Arbitrary Views. [[:page_facing_up: Paper](https://arxiv.org/abs/2410.18979) | [:computer: Code](https://github.com/Barrybarry-Smith/PixelGaussian)｜[:globe_with_meridians: Project Page](https://wzzheng.net/PixelGaussian)]
 - FreeSplat++: Generalizable 3D Gaussian Splatting for Efficient Indoor Scene Reconstruction. [[:page_facing_up: Paper](https://arxiv.org/abs/2503.22986) | [:computer: Code](https://github.com/wangys16/FreeSplatPP)｜[:globe_with_meridians: Project Page](https://wangys16.github.io/FreeSplatPP-Page/)]
 - LongSplat: Online Generalizable 3D Gaussian Splatting from Long Sequence Images. [[:page_facing_up: Paper](https://arxiv.org/abs/2507.16144) | [:computer: Code](https://github.com/NVlabs/LongSplat)｜[:globe_with_meridians: Project Page](https://linjohnss.github.io/longsplat)]
+- AdaptiveSplat: Texture Aware Controllable 3D Gaussian Allocation for Feed-Forward Reconstruction. [[:page_facing_up: Paper](https://arxiv.org/abs/2607.04256) | [:globe_with_meridians: Project Page](https://badrinaths.github.io/projects/adaptive-splat/)]
+- Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting. [[:page_facing_up: Paper](https://arxiv.org/abs/2512.15508)]
+- SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction. [[:page_facing_up: Paper](https://arxiv.org/abs/2604.03069)]
+- SubSplat: High-Resolution Pixel-aligned 3DGS via Sub-pixel Gaussian Reparameterization. [[:page_facing_up: Paper](https://arxiv.org/abs/2607.20813)]
 
 ## Data & Visual Augmentation
 
@@ -217,6 +265,11 @@ An curated list for feed-forward 3D scene modeling, including research direction
 - Puzzles: Unbounded Video-Depth Augmentation for Scalable End-to-End 3D Reconstruction. [[:page_facing_up: Paper](https://arxiv.org/abs/2506.23863) | [:computer: Code](https://github.com/Jiahao-Ma/puzzles-code)｜[:globe_with_meridians: Project Page](https://jiahao-ma.github.io/puzzles/)]
 - Aug3D: Augmenting Large Scale Outdoor Datasets for Generalizable Novel View Synthesis. [[:page_facing_up: Paper](https://arxiv.org/abs/2501.06431)]
 - MVBoost: Boost 3D Reconstruction with Multi-View Refinement.
+- Reliev3R: Relieving Feed-forward Reconstruction from Multi-View Geometric Annotations. [[:page_facing_up: Paper](https://arxiv.org/abs/2604.00548)]
+- Wat3R: Underwater 3D Geometry Learning without Annotations. [[:page_facing_up: Paper](https://arxiv.org/abs/2607.08772)]
+- Wild3R: Feed-Forward 3D Gaussian Splatting from Unconstrained Sparse Photo Collection. [[:page_facing_up: Paper](https://arxiv.org/abs/2606.11894)]
+- AREA3D: Active Reconstruction Agent with Unified Feed-Forward 3D Perception and Vision-Language Guidance. [[:page_facing_up: Paper](https://arxiv.org/abs/2512.05131)]
+- E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training. [[:page_facing_up: Paper](https://arxiv.org/abs/2512.10950) | [:globe_with_meridians: Project Page](https://qitaozhao.github.io/E-RayZer)]
 
 ### Visual Augmentation
 
@@ -225,6 +278,12 @@ An curated list for feed-forward 3D scene modeling, including research direction
 - ProSplat: Improved Feed-Forward 3D Gaussian Splatting for Wide-Baseline Sparse Views. [[:page_facing_up: Paper](https://arxiv.org/abs/2506.07670)]
 - Difix3D+: Improving 3D Reconstructions with Single-Step Diffusion Models.
 - Reconstruct, Inpaint, Finetune: Dynamic Novel-view Synthesis from Monocular Videos. [[:page_facing_up: Paper](https://arxiv.org/abs/2507.12646)]
+- One-Shot Refiner: Boosting Feed-forward Novel View Synthesis via One-Step Diffusion. [[:page_facing_up: Paper](https://arxiv.org/abs/2601.14161)]
+- One2Scene: Geometric Consistent Explorable 3D Scene Generation from a Single Image. [[:page_facing_up: Paper](https://arxiv.org/abs/2602.19766)]
+- Pano3DComposer: Feed-Forward Compositional 3D Scene Generation from Single Panoramic Image. [[:page_facing_up: Paper](https://arxiv.org/abs/2603.05908) | [:globe_with_meridians: Project Page](https://qiuzidian.github.io/pano3dcomposer-page/)]
+- SRSplat: Feed-Forward Super-Resolution Gaussian Splatting from Sparse Multi-View Images. [[:page_facing_up: Paper](https://arxiv.org/abs/2511.12040) | [:globe_with_meridians: Project Page](https://xinyuanhu66.github.io/SRSplat/)]
+- StereoSplat+: Feed-Forward Stereo Gaussian Splatting with Diffusion-Assisted Progressive Inference. [[:page_facing_up: Paper](https://arxiv.org/abs/2607.08808)]
+- Zero-Shot Novel Depth Synthesis Using 3D Foundation Models Scene Representations. [[:page_facing_up: Paper](https://arxiv.org/abs/2609.04174) | [:globe_with_meridians: Project Page](https://akola-mbey-denis.github.io/Z3D-page/)]
 
 ## Temporal-aware Models
 
@@ -235,6 +294,14 @@ An curated list for feed-forward 3D scene modeling, including research direction
 - DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos. [[:page_facing_up: Paper](https://arxiv.org/abs/2506.09997) ｜[:globe_with_meridians: Project Page](https://hubert0527.github.io/dgslrm/)]
 - Stream3R: Scalable Sequential 3D Reconstruction with Causal Transformer. [[:page_facing_up: Paper](https://arxiv.org/abs/2508.10893)]
 - LongStream: Long-Sequence Streaming Autoregressive Visual Geometry. [[:page_facing_up: Paper](https://arxiv.org/abs/2602.13172)]
+- StreamSplat: Streaming Feed-Forward 3D Gaussian Splatting. [[:page_facing_up: Paper](https://arxiv.org/abs/2608.01659)]
+- Event3R: Asynchronous-to-Global 3D Reconstruction from Event Camera via Spatial-Temporal Feature Aggregation. [[:page_facing_up: Paper](https://arxiv.org/abs/2607.15727)]
+- LASER: Layer-wise Scale Alignment for Training-Free Streaming 4D Reconstruction. [[:page_facing_up: Paper](https://arxiv.org/abs/2512.13680)]
+- LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction. [[:page_facing_up: Paper](https://arxiv.org/abs/2604.14141) | [:globe_with_meridians: Project Page](https://technology.robbyant.com/lingbot-map)]
+- OnlineSplatter: Pose-Free Online 3D Reconstruction for Free-Moving Objects. [[:page_facing_up: Paper](https://arxiv.org/abs/2510.20605)]
+- SparseWorld-TC: Trajectory-Conditioned Sparse Occupancy World Model. [[:page_facing_up: Paper](https://arxiv.org/abs/2511.22039)]
+- TTSA3R: Training-Free Temporal-Spatial Adaptive Persistent State for Streaming 3D Reconstruction. [[:page_facing_up: Paper](https://arxiv.org/abs/2601.22615)]
+- VGGT-Motion: Motion-Aware Calibration-Free Monocular SLAM for Long-Range Consistency. [[:page_facing_up: Paper](https://arxiv.org/abs/2602.05508)]
 
 ### Offline Processing
 
@@ -248,11 +315,28 @@ An curated list for feed-forward 3D scene modeling, including research direction
 - MonoFusion: Sparse-View 4D Reconstruction via Monocular Fusion. [[:page_facing_up: Paper](https://arxiv.org/abs/2507.23782) | [:computer: Code](https://github.com/ImNotPrepared/MonoFusion)｜[:globe_with_meridians: Project Page](https://imnotprepared.github.io/research/25_DSR/)]
 - Self-Supervised Monocular 4D Scene Reconstruction for Egocentric Videos. [[:page_facing_up: Paper](https://arxiv.org/abs/2411.09145)]
 - Feed-forward Bullet-Time Reconstruction of Dynamic Scenes from Monocular Videos. [[:page_facing_up: Paper](https://arxiv.org/abs/2412.03526)]
+- 4RC: 4D Reconstruction via Conditional Querying Anytime and Anywhere. [[:page_facing_up: Paper](https://arxiv.org/abs/2602.10094)]
+- Any4D: Unified Feed-Forward Metric 4D Reconstruction. [[:page_facing_up: Paper](https://arxiv.org/abs/2512.10935)]
+- NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos. [[:page_facing_up: Paper](https://arxiv.org/abs/2601.00393)]
+- UFO-4D: Unposed Feedforward 4D Reconstruction from Two Images. [[:page_facing_up: Paper](https://arxiv.org/abs/2602.24290)]
+- 4D-VGGT: A General Foundation Model with SpatioTemporal Awareness for Dynamic Scene Geometry Estimation. [[:page_facing_up: Paper](https://arxiv.org/abs/2511.18416)]
+- C4D: 4D Made from 3D through Dual Correspondences. [[:page_facing_up: Paper](https://arxiv.org/abs/2510.14960)]
+- Deformable Gaussian Occupancy: Decoupling Rigid and Nonrigid Motion with Factorized Distillation. [[:page_facing_up: Paper](https://arxiv.org/abs/2605.28587)]
+- Dynamic-Robust Photometric-Semantic Reconstruction for Open-Vocabulary 3D Scene Understanding. [[:page_facing_up: Paper](https://arxiv.org/abs/2608.29177)]
+- MoRe: Motion-aware Feed-forward 4D Reconstruction Transformer. [[:page_facing_up: Paper](https://arxiv.org/abs/2603.05078) | [:globe_with_meridians: Project Page](https://hellexf.github.io/MoRe/)]
+- OmniX: Any-view and Any-time 4D Reconstruction via Feed-forward Trajectory Fields. [[:page_facing_up: Paper](https://arxiv.org/abs/2607.10840) | [:globe_with_meridians: Project Page](https://omnix4d.github.io/)]
+- PAGE-4D: Disentangled pose and geometry estimation for vggt-4d perception. [[:page_facing_up: Paper](https://arxiv.org/abs/2510.17568)]
+- TrajVG: 3D Trajectory-Coupled Visual Geometry Learning. [[:page_facing_up: Paper](https://arxiv.org/abs/2602.04439)]
+- UniSplat: Unified Spatio-Temporal Fusion via 3D Latent Scaffolds for Dynamic Driving Scene Reconstruction. [[:page_facing_up: Paper](https://arxiv.org/abs/2511.04595)]
+- V-DPM: 4D Video Reconstruction with Dynamic Point Maps. [[:page_facing_up: Paper](https://arxiv.org/abs/2601.09499) | [:globe_with_meridians: Project Page](https://www.robots.ox.ac.uk/~vgg/research/vdpm/)]
+- VGGT-World: Transforming VGGT into an Autoregressive Geometry World Model. [[:page_facing_up: Paper](https://arxiv.org/abs/2603.12655)]
+- VGGT4D: Mining Motion Cues in Visual Geometry Transformers for 4D Scene Reconstruction. [[:page_facing_up: Paper](https://arxiv.org/abs/2511.19971)]
+- WristWorld: Generating Wrist-Views via 4D World Models for Robotic Manipulation. [[:page_facing_up: Paper](https://arxiv.org/abs/2510.07313)]
 
 ### Interactive Modeling
 
-- PIXIE: Physics from Pixels for Interactive Feed-Forward Scene Modeling. [[:page_facing_up: Paper](https://arxiv.org/abs/2506.05361)]
-- PhysGM: Physical Gaussian Modeling for Interactive 3D Scene Editing. [[:page_facing_up: Paper](https://arxiv.org/abs/2506.10442)]
+- Pixie: Fast and Generalizable Supervised Learning of 3D Physics from Pixels. [[:page_facing_up: Paper](https://arxiv.org/abs/2508.17437)]
+- PhysGM: Large Physical Gaussian Model for Feed-Forward 4D Synthesis. [[:page_facing_up: Paper](https://arxiv.org/abs/2508.13911)]
 
 ### Specialized Tasks
 
@@ -341,6 +425,9 @@ An curated list for feed-forward 3D scene modeling, including research direction
 - Efficient Depth-guided Urban View Synthesis. [[:page_facing_up: Paper](https://arxiv.org/abs/2407.12395) | [:computer: Code](https://github.com/Miaosheng1/EDUS)｜[:globe_with_meridians: Project Page](https://xdimlab.github.io/EDUS/)]
 - DriveGen3D: Boosting Feed-Forward Driving Scene Generation with Efficient Video Diffusion. [[:page_facing_up: Paper](https://arxiv.org/abs/2510.15264)｜[:globe_with_meridians: Project Page](https://lhmd.top/drivegen3d)]
 - WorldSplat: Gaussian-Centric Feed-Forward 4D Scene Generation for Autonomous Driving. [[:page_facing_up: Paper](https://arxiv.org/abs/2509.23402) | [:computer: Code](https://github.com/wm-research/worldsplat)｜[:globe_with_meridians: Project Page](https://wm-research.github.io/worldsplat/)]
+- Geometry-Grounded Unified 3D Perception for Autonomous Driving. [[:page_facing_up: Paper](https://arxiv.org/abs/2608.13147)]
+- Map-Det3D: Metric Feed-Forward 3D Reconstruction Prior for Multi-view 3D Object Detection from Streaming Inputs. [[:page_facing_up: Paper](https://arxiv.org/abs/2608.12179)]
+- VR-Drive: Viewpoint-Robust End-to-End Driving with Feed-Forward 3D Gaussian Splatting. [[:page_facing_up: Paper](https://arxiv.org/abs/2510.23205)]
 
 ## Robotics
 
@@ -396,6 +483,11 @@ An curated list for feed-forward 3D scene modeling, including research direction
 - UniForward: Unified 3D Scene and Semantic Field Reconstruction via Feed-Forward Gaussian Splatting from Only Sparse-View Images. [[:page_facing_up: Paper](https://arxiv.org/abs/2506.09378)]
 - Large Spatial Model: End-to-end Unposed Images to Semantic 3D. [[:page_facing_up: Paper](https://arxiv.org/abs/2410.18956) | [:computer: Code](https://github.com/NVlabs/LSM)｜[:globe_with_meridians: Project Page](https://largespatialmodel.github.io/)]
 - AlignGS: Aligning Geometry and Semantics for Robust Indoor Reconstruction from Sparse Views. [[:page_facing_up: Paper](https://arxiv.org/abs/2510.07839)｜[:globe_with_meridians: Project Page](https://mediax-sjtu.github.io/AlignGS/)]
+- G^2TAM: Geometry Grounded Track Anything Model. [[:page_facing_up: Paper](https://arxiv.org/abs/2607.03789)]
+- Glass Surface Detection Grounded in 3D Visual Geometry. [[:page_facing_up: Paper](https://arxiv.org/abs/2608.26752)]
+- MoonSeg3R: Monocular Online Zero-Shot Segment Anything in 3D with Reconstructive Foundation Priors. [[:page_facing_up: Paper](https://arxiv.org/abs/2512.15577)]
+- MV2GF: Multi-view Pedestrian Detection with a Visual Geometric Foundation Model. [[:page_facing_up: Paper](https://arxiv.org/abs/2608.20639)]
+- VGGT-Det: Mining VGGT Internal Priors for Sensor-Geometry-Free Multi-View Indoor 3D Object Detection. [[:page_facing_up: Paper](https://arxiv.org/abs/2603.00912)]
 
 ### 3D Scene Understanding
 
@@ -404,6 +496,7 @@ An curated list for feed-forward 3D scene modeling, including research direction
 - Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence. [[:page_facing_up: Paper](https://arxiv.org/abs/2505.23747) | [:computer: Code](https://github.com/diankun-wu/Spatial-MLLM)｜[:globe_with_meridians: Project Page](https://diankun-wu.github.io/Spatial-MLLM/)]
 - Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors. [[:page_facing_up: Paper](https://arxiv.org/abs/2505.24625) | [:computer: Code](https://github.com/LaVi-Lab/VG-LLM)｜[:globe_with_meridians: Project Page](https://lavi-lab.github.io/VG-LLM/)]
 - VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction. [[:page_facing_up: Paper](https://arxiv.org/abs/2505.20279) | [:computer: Code](https://github.com/VITA-Group/VLM-3R)｜[:globe_with_meridians: Project Page](https://vlm-3r.github.io/)]
+- GAP-MLLM: Geometry-Aligned Pre-training for Activating 3D Spatial Perception in Multimodal Large Language Models. [[:page_facing_up: Paper](https://arxiv.org/abs/2603.16461) | [:globe_with_meridians: Project Page](https://gapmllm.github.io/)]
 
 ## Video Generation
 
@@ -425,6 +518,8 @@ An curated list for feed-forward 3D scene modeling, including research direction
 - EvoWorld: Evolving Panoramic World Generation with Explicit 3D Memory. [[:page_facing_up: Paper](https://arxiv.org/abs/2510.01183)]
 - WorldForge: Unlocking Emergent 3D/4D Generation in Video Diffusion Model via Training-Free Guidance. [[:page_facing_up: Paper](https://arxiv.org/abs/2509.15130)]
 - FantasyWorld: Geometry-Consistent World Modeling via Unified Video and 3D Prediction. [[:page_facing_up: Paper](https://arxiv.org/abs/2509.21657)]
+- HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds. [[:page_facing_up: Paper](https://arxiv.org/abs/2604.14268)]
+- Beyond Pixel Histories: World Models with Persistent 3D State. [[:page_facing_up: Paper](https://arxiv.org/abs/2603.03482)]
 
 ## Others
 
@@ -436,7 +531,7 @@ An curated list for feed-forward 3D scene modeling, including research direction
 
 ### Localization
 
-- Reloc3r: Large-Scale Training of Relative Camera Pose Regression for Generalizable, Fast, and Accurate Visual Localization. [[:page_facing_up: Paper](https://arxiv.org/abs/2509.23962)]
+- Reloc3r: Large-Scale Training of Relative Camera Pose Regression for Generalizable, Fast, and Accurate Visual Localization. [[:page_facing_up: Paper](https://arxiv.org/abs/2412.08376)]
 - A Scene is Worth a Thousand Features: Feed-Forward Camera Localization from a Collection of Image Features. [[:page_facing_up: Paper](https://openreview.net/forum?id=rmDA02o8MV)]
 - Multi-View 3D Point Tracking. [[:page_facing_up: Paper](https://arxiv.org/abs/2508.21060)｜[:globe_with_meridians: Project Page](https://ethz-vlg.github.io/mvtracker/)]
 - SAIL-Recon: Large SfM by Augmenting Scene Regression with Localization. [[:page_facing_up: Paper](https://arxiv.org/abs/2508.17972) | [:computer: Code](https://github.com/HKUST-SAIL/sail-recon)｜[:globe_with_meridians: Project Page](https://hkust-sail.github.io/sail-recon/)]
