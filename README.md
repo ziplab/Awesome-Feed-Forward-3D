@@ -44,11 +44,6 @@ An curated list for feed-forward 3D scene modeling, including research direction
   - [Video Generation](#video-generation)
   - [Others](#others)
 
-## Taxonomy
-
-| <img width="100%" src="https://ff3d-survey.github.io/assets/taxonomy.png"> |
-|:-:|
-
 ## Research Directions
 
 ## Feature Enhancement
