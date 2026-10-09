@@ -11,7 +11,7 @@ An curated list for feed-forward 3D scene modeling, including research direction
 
 ## Table of Contents
 
-- [Research Directions](#directions)
+- [Research Directions](#research-directions)
   - [Feature Enhancement](#feature-enhancement)
     - [Advanced Encoding Architectures](#advanced-encoding-architectures)
     - [Cross-View Fusion](#cross-view-fusion)
@@ -32,11 +32,11 @@ An curated list for feed-forward 3D scene modeling, including research direction
     - [Offline Processing](#offline-processing)
     - [Interactive Modeling](#interactive-modeling)
     - [Specialized Tasks](#specialized-tasks)
-- [Datasets and Benchmarks](#datasets)
+- [Datasets and Benchmarks](#datasets-and-benchmarks)
   - [Geometry Oriented](#geometry-oriented)
   - [Visual Oriented](#visual-oriented)
   - [Mixed](#mixed)
-- [Applications](#application)
+- [Applications](#applications)
   - [Autonomous Driving](#autonomous-driving)
   - [Robotics](#robotics)
   - [SfM & SLAM](#sfm--slam)
